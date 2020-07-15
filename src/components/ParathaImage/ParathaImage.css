@@ -1,0 +1,25 @@
+.ParathaImage {
+    width:60%;
+    height: 300px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.ParathaImg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/*.BeetrootParathaImage {
+    width:60%;
+    height: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.SpinachParathaImage {
+    widows: 60%;;
+    height: 300px;
+    margin: 20px auto;
+    text-align: right;
+}*/
