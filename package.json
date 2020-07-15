@@ -1,7 +1,7 @@
 {
   "name": "webpack-app",
   "version": "1.0.0",
-  "homepage": "https://radharathod.github.io/Webpack-App/",
+  "homepage": "https://radharathod.github.io/Webpack-App",
   "description": "",
   "main": "index.js",
   "scripts": {
