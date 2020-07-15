@@ -1,12 +1,15 @@
 {
   "name": "webpack-app",
   "version": "1.0.0",
+  "homepage": "https://radharathod.github.io/Webpack-App/",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server",
-    "build:prod": "webpack --config webpack.config.prod.js"
+    "build:prod": "webpack --config webpack.config.prod.js",
+    "predeploy": "npm build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
